@@ -20,7 +20,13 @@ $$
 G_x(x, y) \\
 G_y(x, y)
 \end{pmatrix}
+$$
+
+$$
 =
+$$
+
+$$
 \begin{pmatrix}
 \dfrac{\partial f}{\partial x} \\
 \dfrac{\partial f}{\partial y}
