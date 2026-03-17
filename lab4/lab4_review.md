@@ -22,9 +22,7 @@ G_y(x, y)
 \end{pmatrix}
 $$
 
-$$
-=
-$$
+`=`
 
 $$
 \begin{pmatrix}
