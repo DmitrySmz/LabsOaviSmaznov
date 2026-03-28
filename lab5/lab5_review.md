@@ -101,7 +101,7 @@ $$
 
 | A | Ñ | I |
 |:-:|:-:|:-:|
-| ![proj A](src/projections_A.png) | ![proj Ñ](src/projections_Ntilde.png) | ![proj I](src/projections_I.png) |
+| ![proj A](src/fig_projections_A.png) | ![proj Ñ](src/fig_projections_Ntilde.png) | ![proj I](src/fig_projections_I.png) |
 
 ### 5. Сводная таблица признаков
 
