@@ -1,0 +1,33 @@
+{
+  "alphabet": "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ",
+  "phrase": "Amar no es mirarse el uno al otro, sino mirar juntos en la misma dirección",
+  "base_font_size": 52,
+  "experiment_font_size": 68,
+  "reference_source": "C:\\Users\\Dima\\PycharmProjects\\LabsOaviSmaznov\\lab5\\src",
+  "phrase_bmp": "C:\\Users\\Dima\\PycharmProjects\\LabsOaviSmaznov\\lab6\\src\\phrase_es_variant14.bmp",
+  "experiment_bmp": "C:\\Users\\Dima\\PycharmProjects\\LabsOaviSmaznov\\lab7\\src\\phrase_es_variant14_font68.bmp",
+  "original": {
+    "segments": 60,
+    "letter_positions": 58,
+    "correct_letters": 58,
+    "accuracy_letters": 1.0,
+    "best_string": "AMARNOESMIRARSEELUNOALOTROZSINOMIRARJUNTOSENLAMISMADIRECCISN",
+    "glyph_count": 58,
+    "glyph_correct": 58,
+    "glyph_accuracy": 1.0,
+    "glyph_best_string": "AMARNOESMIRARSEELUNOALOTROSINOMIRARJUNTOSENLAMISMADIRECCIN",
+    "glyph_expected_string": "AMARNOESMIRARSEELUNOALOTROSINOMIRARJUNTOSENLAMISMADIRECCIN"
+  },
+  "experiment": {
+    "segments": 60,
+    "letter_positions": 58,
+    "correct_letters": 56,
+    "accuracy_letters": 0.9655172413793104,
+    "best_string": "AMARNOESMIRARSEELHNOALOTROVSINOMIRARJHNTOSENLAMISMADIRECCISN",
+    "glyph_count": 58,
+    "glyph_correct": 56,
+    "glyph_accuracy": 0.9655172413793104,
+    "glyph_best_string": "AMARNOESMIRARSEELHNOALOTROSINOMIRARJHNTOSENLAMISMADIRECCIN",
+    "glyph_expected_string": "AMARNOESMIRARSEELUNOALOTROSINOMIRARJUNTOSENLAMISMADIRECCIN"
+  }
+}
