@@ -1,0 +1,12 @@
+{
+  "segments": 60,
+  "letter_positions": 58,
+  "correct_letters": 58,
+  "accuracy_letters": 1.0,
+  "best_string": "AMARNOESMIRARSEELUNOALOTROZSINOMIRARJUNTOSENLAMISMADIRECCISN",
+  "glyph_count": 58,
+  "glyph_correct": 58,
+  "glyph_accuracy": 1.0,
+  "glyph_best_string": "AMARNOESMIRARSEELUNOALOTROSINOMIRARJUNTOSENLAMISMADIRECCIN",
+  "glyph_expected_string": "AMARNOESMIRARSEELUNOALOTROSINOMIRARJUNTOSENLAMISMADIRECCIN"
+}
