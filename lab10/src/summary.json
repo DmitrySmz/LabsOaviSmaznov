@@ -1,0 +1,278 @@
+{
+  "audio_meta": {
+    "sample_rate": 48000,
+    "channels": 1,
+    "sample_width_bytes": 2,
+    "n_frames": 1041600,
+    "duration_sec": 21.7
+  },
+  "summary": {
+    "reference_number": "+79858270873",
+    "recognized_number": "+79858270873",
+    "segment_count": 12,
+    "template_count": 11,
+    "error_count": 0,
+    "accuracy": 1.0,
+    "mean_confidence": 0.24021465992339966,
+    "sample_rate_hz": 48000,
+    "spectrogram_window_sec": 0.05,
+    "spectrogram_hop_sec": 0.01
+  },
+  "segments": [
+    {
+      "index": 1,
+      "start_sec": 1.49,
+      "end_sec": 2.0,
+      "duration_sec": 0.51,
+      "rms_mean": 0.11861889142276517,
+      "rms_peak": 1.0
+    },
+    {
+      "index": 2,
+      "start_sec": 3.08,
+      "end_sec": 3.61,
+      "duration_sec": 0.5299999999999998,
+      "rms_mean": 0.06517438733954078,
+      "rms_peak": 0.385101318359375
+    },
+    {
+      "index": 3,
+      "start_sec": 4.65,
+      "end_sec": 5.16,
+      "duration_sec": 0.5099999999999998,
+      "rms_mean": 0.0917146348875365,
+      "rms_peak": 0.419189453125
+    },
+    {
+      "index": 4,
+      "start_sec": 6.21,
+      "end_sec": 6.83,
+      "duration_sec": 0.6200000000000001,
+      "rms_mean": 0.05704261290327438,
+      "rms_peak": 0.35894775390625
+    },
+    {
+      "index": 5,
+      "start_sec": 8.31,
+      "end_sec": 8.7,
+      "duration_sec": 0.3899999999999988,
+      "rms_mean": 0.12810925886162763,
+      "rms_peak": 0.982177734375
+    },
+    {
+      "index": 6,
+      "start_sec": 9.78,
+      "end_sec": 10.47,
+      "duration_sec": 0.6900000000000013,
+      "rms_mean": 0.05654815179601296,
+      "rms_peak": 0.38372802734375
+    },
+    {
+      "index": 7,
+      "start_sec": 11.3,
+      "end_sec": 11.81,
+      "duration_sec": 0.5099999999999998,
+      "rms_mean": 0.08204005643200925,
+      "rms_peak": 0.42657470703125
+    },
+    {
+      "index": 8,
+      "start_sec": 13.32,
+      "end_sec": 13.93,
+      "duration_sec": 0.6099999999999994,
+      "rms_mean": 0.08461340718696699,
+      "rms_peak": 0.370513916015625
+    },
+    {
+      "index": 9,
+      "start_sec": 15.02,
+      "end_sec": 15.53,
+      "duration_sec": 0.5099999999999998,
+      "rms_mean": 0.10935758309334573,
+      "rms_peak": 0.5811767578125
+    },
+    {
+      "index": 10,
+      "start_sec": 16.55,
+      "end_sec": 17.29,
+      "duration_sec": 0.7399999999999984,
+      "rms_mean": 0.06693933806842942,
+      "rms_peak": 0.4515380859375
+    },
+    {
+      "index": 11,
+      "start_sec": 18.19,
+      "end_sec": 18.74,
+      "duration_sec": 0.5499999999999972,
+      "rms_mean": 0.06661261315233814,
+      "rms_peak": 0.359405517578125
+    },
+    {
+      "index": 12,
+      "start_sec": 19.77,
+      "end_sec": 20.11,
+      "duration_sec": 0.33999999999999986,
+      "rms_mean": 0.05909893392814334,
+      "rms_peak": 0.283966064453125
+    }
+  ],
+  "matches": [
+    {
+      "index": 1,
+      "start_sec": 1.49,
+      "end_sec": 2.0,
+      "duration_sec": 0.51,
+      "symbol": "+",
+      "template_name": "plus",
+      "distance_best": 1.0276641899290608,
+      "distance_second": 1.2780951608745819,
+      "confidence": 0.1959407864232541,
+      "alt_2": "5",
+      "alt_3": "6"
+    },
+    {
+      "index": 2,
+      "start_sec": 3.08,
+      "end_sec": 3.61,
+      "duration_sec": 0.5299999999999998,
+      "symbol": "7",
+      "template_name": "seven",
+      "distance_best": 0.819256686789596,
+      "distance_second": 1.50106069971725,
+      "confidence": 0.454214818265566,
+      "alt_2": "4",
+      "alt_3": "3"
+    },
+    {
+      "index": 3,
+      "start_sec": 4.65,
+      "end_sec": 5.16,
+      "duration_sec": 0.5099999999999998,
+      "symbol": "9",
+      "template_name": "nine",
+      "distance_best": 1.534273438518104,
+      "distance_second": 1.5797561336570634,
+      "confidence": 0.028790959674053578,
+      "alt_2": "0",
+      "alt_3": "7"
+    },
+    {
+      "index": 4,
+      "start_sec": 6.21,
+      "end_sec": 6.83,
+      "duration_sec": 0.6200000000000001,
+      "symbol": "8",
+      "template_name": "eight",
+      "distance_best": 0.8866564491621471,
+      "distance_second": 1.685495456731772,
+      "confidence": 0.47394907199488895,
+      "alt_2": "0",
+      "alt_3": "3"
+    },
+    {
+      "index": 5,
+      "start_sec": 8.31,
+      "end_sec": 8.7,
+      "duration_sec": 0.3899999999999988,
+      "symbol": "5",
+      "template_name": "five",
+      "distance_best": 1.218601506252888,
+      "distance_second": 1.5701818730351875,
+      "confidence": 0.22391060094375487,
+      "alt_2": "6",
+      "alt_3": "7"
+    },
+    {
+      "index": 6,
+      "start_sec": 9.78,
+      "end_sec": 10.47,
+      "duration_sec": 0.6900000000000013,
+      "symbol": "8",
+      "template_name": "eight",
+      "distance_best": 1.2478951897003658,
+      "distance_second": 1.827163564720982,
+      "confidence": 0.3170314832263381,
+      "alt_2": "2",
+      "alt_3": "3"
+    },
+    {
+      "index": 7,
+      "start_sec": 11.3,
+      "end_sec": 11.81,
+      "duration_sec": 0.5099999999999998,
+      "symbol": "2",
+      "template_name": "two",
+      "distance_best": 1.3816863409668163,
+      "distance_second": 1.4515607211709711,
+      "confidence": 0.048137414566982284,
+      "alt_2": "0",
+      "alt_3": "8"
+    },
+    {
+      "index": 8,
+      "start_sec": 13.32,
+      "end_sec": 13.93,
+      "duration_sec": 0.6099999999999994,
+      "symbol": "7",
+      "template_name": "seven",
+      "distance_best": 0.9753314072851907,
+      "distance_second": 1.4820490412428724,
+      "confidence": 0.34190341875106867,
+      "alt_2": "3",
+      "alt_3": "4"
+    },
+    {
+      "index": 9,
+      "start_sec": 15.02,
+      "end_sec": 15.53,
+      "duration_sec": 0.5099999999999998,
+      "symbol": "0",
+      "template_name": "zero",
+      "distance_best": 1.4164705197684164,
+      "distance_second": 1.4420932986236399,
+      "confidence": 0.017767767785675383,
+      "alt_2": "2",
+      "alt_3": "8"
+    },
+    {
+      "index": 10,
+      "start_sec": 16.55,
+      "end_sec": 17.29,
+      "duration_sec": 0.7399999999999984,
+      "symbol": "8",
+      "template_name": "eight",
+      "distance_best": 1.3074452355364043,
+      "distance_second": 1.9620067454220027,
+      "confidence": 0.3336183789443652,
+      "alt_2": "2",
+      "alt_3": "3"
+    },
+    {
+      "index": 11,
+      "start_sec": 18.19,
+      "end_sec": 18.74,
+      "duration_sec": 0.5499999999999972,
+      "symbol": "7",
+      "template_name": "seven",
+      "distance_best": 0.8695528804880055,
+      "distance_second": 1.4798114101252895,
+      "confidence": 0.4123893933116896,
+      "alt_2": "3",
+      "alt_3": "4"
+    },
+    {
+      "index": 12,
+      "start_sec": 19.77,
+      "end_sec": 20.11,
+      "duration_sec": 0.33999999999999986,
+      "symbol": "3",
+      "template_name": "three",
+      "distance_best": 1.3605685949746764,
+      "distance_second": 1.4098014342174845,
+      "confidence": 0.03492182519315917,
+      "alt_2": "7",
+      "alt_3": "4"
+    }
+  ],
+  "note": "REFERENCE_NUMBER соответствует фактической эталонной строке для записи my_number.wav. При замене записи номера обновите константу и перезапустите скрипт."
+}

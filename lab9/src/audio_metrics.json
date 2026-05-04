@@ -1,0 +1,75 @@
+{
+  "audio_meta": {
+    "channels": 1,
+    "sample_width_bytes": 2,
+    "sample_rate": 48000,
+    "n_frames": 1594560,
+    "duration_sec": 33.22
+  },
+  "processing": {
+    "window_size": 2400,
+    "window_duration_sec": 0.05,
+    "hop_size": 600,
+    "hop_duration_sec": 0.0125,
+    "stft_freq_step_hz": 20.0,
+    "total_frames": 2655,
+    "quiet_frames": 266,
+    "suppression_k": 1.0,
+    "rms_quiet_before": 0.0004891409108847284,
+    "rms_quiet_after": 0.0002014332818094129,
+    "rms_active_before": 0.03663124046011179,
+    "rms_active_after": 0.03645570187978336,
+    "snr_before_db": 37.48835275311763,
+    "snr_after_db": 45.15268471318816
+  },
+  "top_energy_peaks": [
+    {
+      "rank": 1,
+      "time_sec": 23.46875,
+      "total_energy": 46664.91786841877,
+      "dominant_band_center_hz": 410.0,
+      "dominant_band_label": "390..430",
+      "dominant_band_energy": 31252.17383518599
+    },
+    {
+      "rank": 2,
+      "time_sec": 27.86875,
+      "total_energy": 32325.119209560617,
+      "dominant_band_center_hz": 210.0,
+      "dominant_band_label": "190..230",
+      "dominant_band_energy": 18734.39491577672
+    },
+    {
+      "rank": 3,
+      "time_sec": 5.66875,
+      "total_energy": 20648.193768486177,
+      "dominant_band_center_hz": 250.0,
+      "dominant_band_label": "230..270",
+      "dominant_band_energy": 8567.107637696818
+    },
+    {
+      "rank": 4,
+      "time_sec": 12.36875,
+      "total_energy": 14263.521736921728,
+      "dominant_band_center_hz": 290.0,
+      "dominant_band_label": "270..310",
+      "dominant_band_energy": 6993.188846434607
+    },
+    {
+      "rank": 5,
+      "time_sec": 18.26875,
+      "total_energy": 7650.879954735104,
+      "dominant_band_center_hz": 370.0,
+      "dominant_band_label": "350..390",
+      "dominant_band_energy": 1542.235433325237
+    },
+    {
+      "rank": 6,
+      "time_sec": 13.36875,
+      "total_energy": 2295.23624706829,
+      "dominant_band_center_hz": 290.0,
+      "dominant_band_label": "270..310",
+      "dominant_band_energy": 1618.6606571767334
+    }
+  ]
+}
